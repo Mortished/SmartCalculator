@@ -1,2 +1,0 @@
-# SmartCalculator
-Hyperskill project SmartCalculator
